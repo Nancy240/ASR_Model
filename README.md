@@ -34,7 +34,7 @@ Word Error Rate (WER) serves as a crucial metric for evaluating automatic speech
 
 Whisper stands as a versatile speech recognition model designed for diverse applications. Trained on a vast array of audio data, it boasts multitasking capabilities, including multilingual speech recognition, speech translation, and language identification.
 
-![approach](https://github.com/Nancy240/ASR_Model/edit/main/README.md)
+![approach](https://private-user-images.githubusercontent.com/120269805/324206437-ba812c1b-8e2e-404c-a0b2-f3aa39b453cc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM5MDgwMTgsIm5iZiI6MTcxMzkwNzcxOCwicGF0aCI6Ii8xMjAyNjk4MDUvMzI0MjA2NDM3LWJhODEyYzFiLThlMmUtNDA0Yy1hMGIyLWYzYWEzOWI0NTNjYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyM1QyMTI4MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNGIyMWU1Nzk3NTM2NDFiYWJiNDVhMGE5MDIxMDg0MDJkYjU5NjU0NGNmN2FkYTU2NjFjNjI5YTA0NTU5MzNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.R4OHfVOWaPSI0RhP35CqLLJdLGJbS6tFiA-s955Qcfc)
 
 At its core lies a Transformer sequence-to-sequence architecture, honed through training on various speech processing tasks. These tasks encompass multilingual speech recognition, speech translation, spoken language identification, and voice activity detection. Remarkably, Whisper consolidates these functions into a single model, supplanting multiple stages typically found in conventional speech processing pipelines.
 
